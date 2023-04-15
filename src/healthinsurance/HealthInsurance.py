@@ -3,7 +3,7 @@ import pandas as pd
 
 class HealthInsurance():
     def __init__(self):
-        self.home_path = '/Users/Victor/Desktop/repos/pa004_health_insurance/'
+        self.home_path = ''
         self.age_scaler = pickle.load(open( self.home_path + 'src/features/age_scaler.pkl', 'rb'))
         self.annual_premium_scaler = pickle.load(open( self.home_path + 'src/features/annual_premium_scaler.pkl', 'rb'))
         self.ap_per_age_scaler = pickle.load(open( self.home_path + 'src/features/ap_per_age_scaler.pkl', 'rb'))
