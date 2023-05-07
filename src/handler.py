@@ -5,7 +5,7 @@ import xgboost as xgb
 from flask import Flask, request, Response
 from healthinsurance.HealthInsurance import HealthInsurance
 
-model = pickle.load(open('src/models/xgboost.pkl', 'rb'))
+model = pickle.load(open('src/models/lgbm.pkl', 'rb'))
 
 app = Flask(__name__)
 
