@@ -181,7 +181,7 @@ Na lift curve, o eixo horizontal representa a porcentagem de clientes que foram 
 ## 7.0 Conclusão
 
 <h1 align="left">
-  <img alt="cumulative gains" title="#logo" src="./img/sheets.gif" />
+  <img alt="cumulative gains" title="#logo" src="./img/sheets1.gif" />
 </h1>
 
 
