@@ -86,4 +86,6 @@ class HealthInsurance():
 
         original_data['prediction'] = pred[:, 1].tolist()
 
+        original_data = original_data.sort_values('prediction', ascending = False)
+
         return original_data.to_json(orient='records')
