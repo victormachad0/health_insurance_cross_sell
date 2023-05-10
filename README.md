@@ -185,6 +185,9 @@ Na lift curve, o eixo horizontal representa a porcentagem de clientes que foram 
 </h1>
 
 
+## 8.0 Proximos passos
+
+* Criar um pipeline para que faça as etapas de feature engineering, data preparation e model training.
 
 
-### Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-machado1/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-machado1/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://victormachad0.github.io/portfolio_projetos/)
