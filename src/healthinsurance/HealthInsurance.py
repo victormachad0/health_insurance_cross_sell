@@ -83,6 +83,7 @@ class HealthInsurance():
         test_data = test_data.fillna(0)
 
         pred = model.predict_proba(test_data)
+        
 
         original_data['prediction'] = pred[:, 1].tolist()
 
