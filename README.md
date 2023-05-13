@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="hip_1" title="#logo" src="./img/banner.png" />
+</h1>
+
 ## 1.0. Introdução ao problema de negócio
 
 O contexto apresentado a seguir é completamente fictício, tanto a empresa quanto o problema de negócio foram criados afim de estudos. 
